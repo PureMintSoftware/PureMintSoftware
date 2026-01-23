@@ -2,7 +2,7 @@
 
 [![Sponsor](https://img.shields.io/badge/SPONSOR-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/puremintsoftware)
 
-> I code beautiful applications with a minimalist design that simply work.
+I code beautiful applications, with a minimalist design, that simply work.
 
 ### 🌿 Projects
 *   **[Minimalist Calendar](https://github.com/PureMintSoftware/MinimalistCalendar)** – Lightweight Windows app for distraction-free tracking.
