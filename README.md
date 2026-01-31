@@ -5,8 +5,8 @@
 I code beautiful applications, with a minimalist design, that simply work.
 
 ### 🌿 Projects
-*   **[Minimalist Calendar](https://github.com/PureMintSoftware/MinimalistCalendar)** – Lightweight Windows app for distraction-free tracking.
-*   **[Proportional Image Resizer](https://github.com/PureMintSoftware/Proportional-Image-Resizer)** – Batch utility for high-performance image scaling.
+*   **[Minimalist Calendar](https://github.com/PureMintSoftware/MinimalistCalendar)** - Lightweight Windows app for distraction-free tracking.
+*   **[Proportional Image Resizer](https://github.com/PureMintSoftware/Proportional-Image-Resizer)** - Batch utility for high-performance image scaling.
 *   **[Auto File Mover](https://github.com/PureMintSoftware/AutoFileMover)** - Automated file mover with configurable monitoring intervals. 
 
 ### 🌐 Connect
