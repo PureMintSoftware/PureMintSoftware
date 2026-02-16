@@ -8,7 +8,7 @@ I code beautiful applications, with a minimalist design, that simply work.
 *   **[Minimalist Calendar](https://github.com/PureMintSoftware/MinimalistCalendar)** - Lightweight Windows app for distraction-free tracking.
 *   **[Proportional Image Resizer](https://github.com/PureMintSoftware/Proportional-Image-Resizer)** - Batch utility for high-performance image scaling.
 *   **[Auto File Mover](https://github.com/PureMintSoftware/AutoFileMover)** - Automated file mover with configurable monitoring intervals.
-*   **[Claude Launcher](https://github.com/PureMintSoftware/ClaudeLauncher)** - Bootstrapped GUI for loading claude code with a built-in TMUX insaller to enable Agent Teams, and model, thinking effort, and permissions selectors.
+*   **[Claude Launcher](https://github.com/PureMintSoftware/ClaudeLauncher)** - Claude Code launcher with TMUX and GUI auto installer for selecting model, effort, and permissions.
 
 ### 🌐 Connect
 [![Website](https://img.shields.io/badge/puremint.co.uk-4E9A06?style=flat-square)](https://puremint.co.uk)
