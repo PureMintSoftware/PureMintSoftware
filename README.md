@@ -6,7 +6,6 @@ I code beautiful applications, with a minimalist design, that simply work.
 
 ### 🌿 Projects
 *   **[Minimalist Calendar](https://github.com/PureMintSoftware/MinimalistCalendar)** - Lightweight Windows app for distraction-free tracking.
-*   **[Proportional Image Resizer](https://github.com/PureMintSoftware/Proportional-Image-Resizer)** - Batch utility for high-performance image scaling.
 *   **[Auto File Mover](https://github.com/PureMintSoftware/AutoFileMover)** - Automated file mover with configurable monitoring intervals.
 *   **[Claude Launcher](https://github.com/PureMintSoftware/ClaudeLauncher)** - Claude Code launcher with TMUX/GUI auto installer for selecting model/effort/permissions.
 *   **[CS2 Config Manager](https://github.com/PureMintSoftware/CS2ConfigManager)** - App for syncronising, backing up, and capturing Counter Strike 2 configs and options.
